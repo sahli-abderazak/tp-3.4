@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1682433082 source:c:\users\user\desktop\tp prog\tp3.4\ex.c
+	"ex.h"
+
+1682429033 c:\users\user\desktop\tp prog\tp3.4\ex.h
+	<stdio.h>
+	<stdlib.h>
+
